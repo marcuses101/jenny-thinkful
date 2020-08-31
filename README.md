@@ -1,4 +1,4 @@
-# pizza
+# Jenny Thinkful Pizza Demo
 
 ## Description
 Thinkful Github demo page
