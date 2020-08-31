@@ -1,7 +1,7 @@
 # Jenny Thinkful Pizza Demo
 
 ## Description
-Thinkful Github demo page
+Thinkful Github demo page.
 
 ## Author Information
 Marcus Connolly  
